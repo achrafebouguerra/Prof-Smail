@@ -75,8 +75,8 @@ img{
   display: block;
   margin-left: auto;
   border-radius: 15px 25px 25px 25px;
-  width: 42%;
-  height: 50%;
+  width: 50%;
+  height: 100%;
   padding: 1px;
   border: 1pt solid black;
 
@@ -86,20 +86,14 @@ img{
   display: block;
   margin-left: auto;
   border-radius: 15px 25px 25px 25px;
-  width: 35%;
+  width: 50%;
   height: 100%;
   padding: 1px;
   border: 1pt solid black;
 
 }
 
-.bacem{
-  background-image: url(image/body-bg4.png);
-  color: #214e89;
-  padding:10% 10%;
-  text-decoration: none;
-  display: inline-block;
-}
+
 
 
 
