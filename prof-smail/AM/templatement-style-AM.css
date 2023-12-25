@@ -1,0 +1,113 @@
+
+
+.list-group-item {
+  background-color:white;
+  color: #76838f;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+
+
+}
+
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+
+  
+}
+
+td,th {
+  border: 0pt solid black;
+  text-align:center;
+  padding: 0;
+  border-radius: 25px 25px 25px 25px;
+  background-image: url(image/body-bg4.png) ;
+
+
+}
+
+
+tr {
+  background-color: white;
+  text-align: center;
+
+}
+
+body{
+  background-image: url(image/body-bg4.png);
+}
+
+.logo{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height:30%;
+
+}
+
+
+
+
+.AS{
+  text-align: center;
+}
+
+img{
+      border-radius: 25px 25px 25px 25px;
+}
+
+.math{
+  height: 100%;
+  width: 100%;
+}
+
+.phy{
+  height: 100%;
+  width: 100%;
+}
+
+.exp{
+  display: block;
+  margin-left: auto;
+  border-radius: 15px 25px 25px 25px;
+  width: 42%;
+  height: 50%;
+  padding: 1px;
+  border: 1pt solid black;
+
+}
+
+.exm{
+  display: block;
+  margin-left: auto;
+  border-radius: 15px 25px 25px 25px;
+  width: 35%;
+  height: 100%;
+  padding: 1px;
+  border: 1pt solid black;
+
+}
+
+.bacem{
+  background-image: url(image/body-bg4.png);
+  color: #214e89;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
