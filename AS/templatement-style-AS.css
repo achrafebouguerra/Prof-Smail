@@ -96,7 +96,7 @@ img{
 .bacem{
   background-image: url(image/body-bg4.png);
   color: #214e89;
-  padding: 14px 25px;
+  padding:10% 10%;
   text-decoration: none;
   display: inline-block;
 }
