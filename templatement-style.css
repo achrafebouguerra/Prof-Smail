@@ -7,11 +7,9 @@
   text-decoration: none;
   display: inline-block;
 
-
-
-
-
 }
+
+
 
 a{
   font-size: 80%;
@@ -20,9 +18,11 @@ a{
 
 table {
   font-family: arial, sans-serif;
-  width: 100%;
+  width: 90%;
   height: 100%;
   background-image: url(body-bg4.png);
+  margin-left: auto;
+  margin-right: auto;
 
 
   
@@ -42,17 +42,6 @@ td,th {
 }
 
 
-
-.AR{
-  background-color: #57c7d4;
-  color: white;
-  text-align: center;
-  text-decoration: none;
-
-
-
-
-}
 .AM{
   background-color: #46be8a;
   color: white;
